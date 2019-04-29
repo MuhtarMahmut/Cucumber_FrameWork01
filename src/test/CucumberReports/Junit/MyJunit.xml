@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.020154">
+<testcase classname="amazon search" name="seach item" time="0.020154">
+<skipped><![CDATA[When Entered Item name 'apple'..............................................undefined
+Then item will be shown.....................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
